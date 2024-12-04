@@ -1,8 +1,8 @@
 # Computerization's Web Tutorial of year 2024
 
-| Date       | Task name                                 | Status  |
-| ---------- | ----------------------------------------- | ------- |
-| 2024-11-25 | [Number guessing game](/number_guessing/) | <ul><li>[ ]</li></ul> |
+## List of Tasks
+| Date       | Task name                                    | Status                   |
+| ---------- | -------------------------------------------- | ------------------------ |
+| 2024-11-25 | [Number guessing game](/01-number_guessing/) | <ul><li>- [ ] </li></ul> |
 
-Enjoy your time!
-
+To submit your exercise, please send your completed copy to `hw#wrye.dev`. Enjoy your time!
